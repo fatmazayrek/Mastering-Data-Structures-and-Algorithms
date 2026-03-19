@@ -3,8 +3,7 @@ using namespace std;
 
 /*
  * Heap memory'e ulasmak
- * Resources'a ulasmak
- * icin pointer kullanilir
+ * Resources'a ulasmak icin pointer kullanilir
 */
 
 struct Rectangle
